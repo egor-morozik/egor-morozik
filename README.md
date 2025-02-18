@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**egor-morozik/egor-morozik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **[ТВОЁ ИМЯ]**, я начинающий Python Backend-разработчик 🐍  
+Хочу стать профессионалом в **Django, FastAPI** и выйти на фриланс 💼  
 
-Here are some ideas to get you started:
+📌 **Мои навыки**:  
+- Python (Flask, Django, FastAPI)  
+- PostgreSQL, Redis  
+- Docker, Celery, REST API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Работаю над**:  
+🔹 Создаю To-Do List с авторизацией JWT  
+🔹 Пишу статьи о backend-разработке  
+
+📫 **Связаться со мной**:  
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/ТВОЙ_НИК)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ТВОЙ_НИК)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:ТВОЙ_EMAIL@gmail.com)  
+
+🚀 **GitHub статистика**  
+![Статистика](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![cat](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ТВОЙ_НИК&theme=radical)
