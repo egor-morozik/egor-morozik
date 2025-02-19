@@ -12,7 +12,6 @@ My name is Egor, I am a beginner Python Backend developer. 🐍
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:egor.mrz04@gmail.com)  
 
 🚀 **GitHub statistics**  
-![Statistic](https://github-readme-stats.vercel.app/api?username=egor-morozik&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egor-morozik&layout=compact&theme=radical)
 
