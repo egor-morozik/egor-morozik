@@ -26,4 +26,3 @@ My name is Egor, I am a beginner Python Backend developer. 🐍
 ![Celery](https://img.shields.io/badge/Celery-3786A0?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=egor-morozik&theme=radical)
