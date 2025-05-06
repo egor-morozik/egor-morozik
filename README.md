@@ -41,4 +41,4 @@ My name is Egor, I am a beginner Python Backend developer. 🐍
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=egor_morozik)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=egor_morozik)](https://leetcode.com/egor_morozik)
