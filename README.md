@@ -3,9 +3,9 @@
 My name is Egor, I am a beginner Python Backend developer. 🐍  
 
 📌 **My skills**:  
-- Python (Flask, Django, Tkinter), C++ (Qt, OpenGL), Java (Swing)  
+- Python (Flask, Django, Tkinter), C++ (Qt, OpenGL), Java (Swing), C#
 - PostgreSQL, Redis  
-- Docker, Celery, REST API  
+- Docker, Celery, REST API, .Net  
 
 📫 **Contact me**:  
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/Francuzik_1)  
