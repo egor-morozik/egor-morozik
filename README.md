@@ -3,7 +3,7 @@
 My name is Egor, I am a beginner Python Backend developer. 🐍  
 
 📌 **My skills**:  
-- Python (Flask, Django, Tkinter), C++ (Qt, OpenGL), Java (Swing), C#
+- Python (Flask, Django, Tkinter), C++ (Qt, OpenGL), Java (Swing), C#, Assembly
 - PostgreSQL, Redis  
 - Docker, Celery, REST API, .Net  
 
@@ -20,6 +20,7 @@ My name is Egor, I am a beginner Python Backend developer. 🐍
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
