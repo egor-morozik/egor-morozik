@@ -30,6 +30,8 @@ My name is Egor, I am a beginner Python Backend developer. 🐍
 ![OpenGL](https://img.shields.io/badge/OpenGL-FF0000?style=for-the-badge&logo=opengl&logoColor=white)
 
 ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-3786A0?style=for-the-badge&logo=celery&logoColor=white)
