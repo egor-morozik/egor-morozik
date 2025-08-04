@@ -1,28 +1,4 @@
 # Hello! 👋
-<table>
-  <tr>
-    <td width="60%">
-      <h3>Your Name</h3>
-      <p>username · she/her</p>
-      <p>🔹 <em>Backend Developer / Data Analyst</em></p>
-      <p>📌 142 followers · 33 following</p>
-      <p>📍 Your City, Country</p>
-      <p>📧 <a href="mailto:your@email.com">your@email.com</a></p>
-      <p>🔗 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a></p>
-    </td>
-    <td width="40%">
-      <img src="https://avatars.githubusercontent.com/u/yourprofile" width="100%" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
-My name is Egor, I am a beginner Python Backend developer and data analyst 🐍  
-
-📌 **My skills**:  
-- Python (Flask, Django, Tkinter, NumPy, Pandas, Matplotlib), C++ (Qt, OpenGL), Java (Swing), C# (ASP .Net Core, MVC), Assembly
-- SQL, Redis  
-- Docker
-- Basic JS, CSS, HTML
-- Excel, PowerBI
 
 📫 **Contact me**:  
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/Francuzik_1)  
