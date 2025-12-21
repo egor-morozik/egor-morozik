@@ -28,8 +28,9 @@
 ### AI/ML & LLM Stack
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
+
 **LLM Providers:**  
-![OpenAI](https://img.shields.io/badge/OpenAI ChatGPT-412991?style=flat&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-00B4AB?style=flat)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0B8FDB?style=flat)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google)
