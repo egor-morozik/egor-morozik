@@ -95,9 +95,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egor-morozik&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 LeetCode Progress
 
