@@ -1,13 +1,13 @@
- # Hello! 👋 Egor Morozik
+# Hello!
 
-📫 **Contact me**:  
+**Contact me**:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/egor-morozik/)  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/egor_egor_01)  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail)](mailto:egor.mrz04@gmail.com)  
 
 ---
 
-## 🚀 Core Technologies & Languages
+## Core Technologies & Languages
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +38,8 @@
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=flat)
 ![Qwen](https://img.shields.io/badge/Qwen-FF6F61?style=flat&logo=data:image/svg%252bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMEMxNC4zIDAgMCAxNC4zIDAgMzJzMTQuMyAzMiAzMiAzMiAzMi0xNC4zIDMyLTMyUzQ5LjcgMCAzMiAweiBtMCA1OEMxNy42IDU4IDYgNDYuNCA2IDMyUzE3LjYgNiAzMiA2czI2IDExLjYgMjYgMjYtMTEuNiAyNi0yNiAyNnoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjIgMjZoMTJ2MTZIMjJ6TTM4IDI2aDEydjE2SDM4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)
 
-**AI-Powered Development Tools**
+**AI-Powered Development Tools:**
+
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
