@@ -26,6 +26,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### AI/ML & LLM Stack
+**Agent Frameworks:**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
 
@@ -35,6 +36,11 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0B8FDB?style=flat)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google)
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=flat)
+![Qwen](https://img.shields.io/badge/Qwen-FF6F61?style=flat&logo=data:image/svg%252bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMEMxNC4zIDAgMCAxNC4zIDAgMzJzMTQuMyAzMiAzMiAzMiAzMi0xNC4zIDMyLTMyUzQ5LjcgMCAzMiAweiBtMCA1OEMxNy42IDU4IDYgNDYuNCA2IDMyUzE3LjYgNiAzMiA2czI2IDExLjYgMjYgMjYtMTEuNiAyNi0yNiAyNnoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjIgMjZoMTJ2MTZIMjJ6TTM4IDI2aDEydjE2SDM4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)
+
+**AI-Powered Development Tools**
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### Data Science & Analysis
 ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -51,6 +57,9 @@
 **NoSQL:**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Vector Databases:**
+![Qdrant](https://img.shields.io/badge/Qdrant-9C27B0?style=for-the-badge&logo=qdrant&logoColor=white)
 
 **Cloud:**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
