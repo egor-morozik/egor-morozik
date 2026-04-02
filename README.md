@@ -32,6 +32,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google)
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=flat)
 ![Qwen](https://img.shields.io/badge/Qwen-FF6F61?style=flat&logo=data:image/svg%252bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMEMxNC4zIDAgMCAxNC4zIDAgMzJzMTQuMyAzMiAzMiAzMiAzMi0xNC4zIDMyLTMyUzQ5LjcgMCAzMiAweiBtMCA1OEMxNy42IDU4IDYgNDYuNCA2IDMyUzE3LjYgNiAzMiA2czI2IDExLjYgMjYgMjYtMTEuNiAyNi0yNiAyNnoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjIgMjZoMTJ2MTZIMjJ6TTM4IDI2aDEydjE2SDM4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)
+![Claude](https://img.shields.io/badge/Claude-5A3E2B?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **AI-Powered Development Tools:**
 
