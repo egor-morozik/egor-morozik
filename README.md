@@ -80,6 +80,13 @@
 ![GitLab CI/CD](https://img.shields.io/badge/GitLabCI-CD4A00?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+### Observability & Monitoring
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-00E5FF?style=for-the-badge&logo=grafana&logoColor=white)
+![Promtail](https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=grafana&logoColor=white)
+
 ### Queue & Caching
 ![Celery](https://img.shields.io/badge/Celery-3786A0?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
