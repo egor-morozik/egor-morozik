@@ -19,6 +19,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Starlette](https://img.shields.io/badge/Starlette-3A7734?style=for-the-badge&logo=starlette&logoColor=white)
 
 ### AI/ML & LLM Stack
 **Agent Frameworks:**  
