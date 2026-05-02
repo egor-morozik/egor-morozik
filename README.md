@@ -1,7 +1,6 @@
 # Hello!
 
 **Contact me**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/egor-morozik/)  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/egor_egor_01)  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail)](mailto:egor.mrz04@gmail.com)  
 
